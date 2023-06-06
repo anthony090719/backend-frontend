@@ -7,7 +7,7 @@ app.get('/', (req, res) => {
 });
 
 // Puerto en el que se ejecutará el servidor
-const port = 80;
+const port = 3000;
 
 // Iniciar el servidor
 app.listen(port, () => {
